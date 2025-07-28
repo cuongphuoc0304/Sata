@@ -22,7 +22,7 @@ public class AuthManager : MonoBehaviour
     public TMP_Dropdown monthDropdown;
     public TMP_Dropdown yearDropdown;
     public TMP_Text registerMessageText;
-
+    public GameObject UI_loginPanel1;
     [Header("Login")]
     public TMP_InputField loginUsernameInput;
     public TMP_InputField loginPasswordInput;
